@@ -1,4 +1,4 @@
-Registration Form 
+REGISTRATION FORM -
 A modern, responsive registration form built with HTML, CSS and JavaScript, featuring real-time validation and a clean design.
 
 🚀 Overview
@@ -35,5 +35,7 @@ Interact with the form to test its features and validation.
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
 Link to the hosted registration form on the Github Pages: https://seanicenabasirye.github.io/SeaniceNabasirye-Assignment-Cohort14.-Year-2025_CodeQueen/
 
